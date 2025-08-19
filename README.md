@@ -1,4 +1,4 @@
 # TRT INFER SERVER
-视频流多节点复用推理框架
+多节点复用视频流推理框架
 
 ![pipeline](pipeline.png)
